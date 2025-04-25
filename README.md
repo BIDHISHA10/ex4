@@ -157,7 +157,7 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![web](https://github.com/user-attachments/assets/6688c907-6995-4ee7-9919-46ba4a314b75)
+![Screenshot 2025-04-25 083529](https://github.com/user-attachments/assets/7aa4fc7b-140a-4f5f-9777-198164848463)
 
 ![image](https://github.com/user-attachments/assets/06ce4087-9919-4ea6-b858-93186683509b)
 
